@@ -48,6 +48,8 @@ La plataforma está desarrollada con una arquitectura desacoplada, separando la 
 <img width="1902" height="927" alt="SCR-20260901-trva" src="https://github.com/user-attachments/assets/d2d49322-7aa7-4467-be89-420f9f8f8623" />
 
 
+
+
 > **⚠️ Nota de Privacidad / Código Fuente**
 > 
 > Este repositorio funciona como un *Showcase* de la arquitectura, diseño y stack tecnológico del proyecto. El código fuente completo (tanto del cliente en Angular como de la API en Symfony) se mantiene en un repositorio privado por motivos comerciales y de seguridad. 
