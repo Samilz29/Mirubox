@@ -50,6 +50,11 @@ La plataforma está desarrollada con una arquitectura desacoplada, separando la 
 
 
 
+
+
+
+
+
 > **⚠️ Nota de Privacidad / Código Fuente**
 > 
 > Este repositorio funciona como un *Showcase* de la arquitectura, diseño y stack tecnológico del proyecto. El código fuente completo (tanto del cliente en Angular como de la API en Symfony) se mantiene en un repositorio privado por motivos comerciales y de seguridad. 
